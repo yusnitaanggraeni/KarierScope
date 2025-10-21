@@ -5,9 +5,9 @@ DesktopResponsive={"1009":{
 ,
 "image314557":{"x":0,"y":0,"w":1440,"h":1024,"bOffBottom":0,"i":"images/jelajahi_karir_wirausaha.png"}
 ,
-"image290003":{"x":5,"y":440,"w":282,"h":101,"bOffBottom":0,"i":"images/kerjakuliah.png"}
+"image332943":{"x":6,"y":442,"w":282,"h":101,"bOffBottom":0,"i":"images/kerjakuliah.png"}
 ,
-"text290000":{"x":82,"y":458,"w":154,"h":70,"txtscale":100,"bOffBottom":0}
+"text332940":{"x":83,"y":461,"w":154,"h":70,"txtscale":100,"bOffBottom":0}
 ,
 "text289999":{"x":26,"y":202,"w":154,"h":38,"txtscale":100,"bOffBottom":0}
 ,
@@ -25,7 +25,7 @@ DesktopResponsive={"1009":{
 ,
 "text289980":{"x":168,"y":117,"w":155,"h":40,"txtscale":100,"bOffBottom":0}
 ,
-"text289978":{"x":461,"y":117,"w":155,"h":38,"txtscale":100,"bOffBottom":0}
+"text289978":{"x":461,"y":118,"w":155,"h":38,"txtscale":100,"bOffBottom":0}
 ,
 "text289976":{"x":806,"y":117,"w":155,"h":28,"txtscale":100,"bOffBottom":0}
 ,
@@ -45,7 +45,7 @@ DesktopResponsive={"1009":{
 ,
 "image204782":{"x":19,"y":382,"w":253,"h":52,"bOffBottom":0,"i":"images/wirausaha_2_.png"}
 ,
-"text204556":{"x":81,"y":388,"w":118,"h":33,"txtscale":100,"bOffBottom":0}
+"text204556":{"x":81,"y":389,"w":118,"h":33,"txtscale":100,"bOffBottom":0}
 ,
 "RCDResetQuestion":function(){
 try{if(window.dragMgr)window.dragMgr.clearDropZones();}catch(e){if(e&&e.message)console.log(e.message);}

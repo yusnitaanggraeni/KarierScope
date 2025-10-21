@@ -21,7 +21,7 @@ DesktopResponsive={"1009":{
 ,
 "image259394":{"x":6,"y":442,"w":282,"h":101,"bOffBottom":0,"i":"images/kerjakuliah.png"}
 ,
-"text259391":{"x":83,"y":461,"w":154,"h":70,"txtscale":100,"bOffBottom":0}
+"text259391":{"x":83,"y":460,"w":154,"h":70,"txtscale":100,"bOffBottom":0}
 ,
 "text259037":{"x":26,"y":202,"w":154,"h":38,"txtscale":100,"bOffBottom":0}
 ,
@@ -39,7 +39,7 @@ DesktopResponsive={"1009":{
 ,
 "text259018":{"x":168,"y":117,"w":155,"h":40,"txtscale":100,"bOffBottom":0}
 ,
-"text259016":{"x":461,"y":117,"w":155,"h":38,"txtscale":100,"bOffBottom":0}
+"text259016":{"x":461,"y":118,"w":155,"h":38,"txtscale":100,"bOffBottom":0}
 ,
 "text259014":{"x":806,"y":117,"w":155,"h":28,"txtscale":100,"bOffBottom":0}
 ,

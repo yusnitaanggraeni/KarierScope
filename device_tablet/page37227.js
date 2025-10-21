@@ -5,9 +5,9 @@ TabletResponsive={"1009":{
 ,
 "image314557":{"x":0,"y":0,"w":1009,"h":718,"bOffBottom":0,"i":"images/jelajahi_karir_wirausaha.png"}
 ,
-"image290003":{"x":4,"y":308,"w":198,"h":71,"bOffBottom":0,"i":"images/kerjakuliah.png"}
+"image332943":{"x":4,"y":310,"w":198,"h":71,"bOffBottom":0,"i":"images/kerjakuliah.png"}
 ,
-"text290000":{"x":57,"y":321,"w":108,"h":99,"txtscale":100,"bOffBottom":0}
+"text332940":{"x":58,"y":323,"w":108,"h":99,"txtscale":100,"bOffBottom":0}
 ,
 "text289999":{"x":18,"y":142,"w":108,"h":66,"txtscale":100,"bOffBottom":0}
 ,
@@ -25,7 +25,7 @@ TabletResponsive={"1009":{
 ,
 "text289980":{"x":118,"y":82,"w":109,"h":33,"txtscale":100,"bOffBottom":0}
 ,
-"text289978":{"x":323,"y":82,"w":109,"h":66,"txtscale":100,"bOffBottom":0}
+"text289978":{"x":323,"y":83,"w":109,"h":66,"txtscale":100,"bOffBottom":0}
 ,
 "text289976":{"x":565,"y":82,"w":109,"h":66,"txtscale":100,"bOffBottom":0}
 ,
@@ -45,7 +45,7 @@ TabletResponsive={"1009":{
 ,
 "image204782":{"x":13,"y":268,"w":177,"h":36,"bOffBottom":0,"i":"images/wirausaha_2_.png"}
 ,
-"text204556":{"x":57,"y":272,"w":83,"h":33,"txtscale":100,"bOffBottom":0}
+"text204556":{"x":57,"y":273,"w":83,"h":33,"txtscale":100,"bOffBottom":0}
 ,
 "RCDResetQuestion":function(){
 try{if(window.dragMgr)window.dragMgr.clearDropZones();}catch(e){if(e&&e.message)console.log(e.message);}
@@ -61,9 +61,9 @@ try{if(window.dragMgr)window.dragMgr.clearDropZones();}catch(e){if(e&&e.message)
 ,
 "image314557":{"x":0,"y":0,"w":785,"h":558,"bOffBottom":0,"i":"images/jelajahi_karir_wirausaha.png"}
 ,
-"image290003":{"x":3,"y":440,"w":154,"h":55,"bOffBottom":0,"i":"images/kerjakuliah.png"}
+"image332943":{"x":3,"y":442,"w":154,"h":55,"bOffBottom":0,"i":"images/kerjakuliah.png"}
 ,
-"text290000":{"x":45,"y":458,"w":84,"h":99,"txtscale":100,"bOffBottom":0}
+"text332940":{"x":45,"y":461,"w":84,"h":99,"txtscale":100,"bOffBottom":0}
 ,
 "text289999":{"x":14,"y":202,"w":84,"h":66,"txtscale":100,"bOffBottom":0}
 ,
@@ -81,7 +81,7 @@ try{if(window.dragMgr)window.dragMgr.clearDropZones();}catch(e){if(e&&e.message)
 ,
 "text289980":{"x":92,"y":117,"w":84,"h":33,"txtscale":100,"bOffBottom":0}
 ,
-"text289978":{"x":251,"y":117,"w":84,"h":66,"txtscale":100,"bOffBottom":0}
+"text289978":{"x":251,"y":118,"w":84,"h":66,"txtscale":100,"bOffBottom":0}
 ,
 "text289976":{"x":439,"y":117,"w":84,"h":66,"txtscale":100,"bOffBottom":0}
 ,
@@ -101,7 +101,7 @@ try{if(window.dragMgr)window.dragMgr.clearDropZones();}catch(e){if(e&&e.message)
 ,
 "image204782":{"x":10,"y":382,"w":138,"h":28,"bOffBottom":0,"i":"images/wirausaha_2_.png"}
 ,
-"text204556":{"x":44,"y":388,"w":64,"h":33,"txtscale":100,"bOffBottom":0}
+"text204556":{"x":44,"y":389,"w":64,"h":33,"txtscale":100,"bOffBottom":0}
 ,
 "RCDResetQuestion":function(){
 try{if(window.dragMgr)window.dragMgr.clearDropZones();}catch(e){if(e&&e.message)console.log(e.message);}

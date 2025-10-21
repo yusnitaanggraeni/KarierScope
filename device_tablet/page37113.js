@@ -21,7 +21,7 @@ TabletResponsive={"1009":{
 ,
 "image259394":{"x":4,"y":310,"w":198,"h":71,"bOffBottom":0,"i":"images/kerjakuliah.png"}
 ,
-"text259391":{"x":58,"y":323,"w":108,"h":99,"txtscale":100,"bOffBottom":0}
+"text259391":{"x":58,"y":322,"w":108,"h":99,"txtscale":100,"bOffBottom":0}
 ,
 "text259037":{"x":18,"y":142,"w":108,"h":66,"txtscale":100,"bOffBottom":0}
 ,
@@ -39,7 +39,7 @@ TabletResponsive={"1009":{
 ,
 "text259018":{"x":118,"y":82,"w":109,"h":33,"txtscale":100,"bOffBottom":0}
 ,
-"text259016":{"x":323,"y":82,"w":109,"h":66,"txtscale":100,"bOffBottom":0}
+"text259016":{"x":323,"y":83,"w":109,"h":66,"txtscale":100,"bOffBottom":0}
 ,
 "text259014":{"x":565,"y":82,"w":109,"h":66,"txtscale":100,"bOffBottom":0}
 ,
@@ -89,7 +89,7 @@ try{if(window.dragMgr)window.dragMgr.clearDropZones();}catch(e){if(e&&e.message)
 ,
 "image259394":{"x":3,"y":442,"w":154,"h":55,"bOffBottom":0,"i":"images/kerjakuliah.png"}
 ,
-"text259391":{"x":45,"y":461,"w":84,"h":99,"txtscale":100,"bOffBottom":0}
+"text259391":{"x":45,"y":460,"w":84,"h":99,"txtscale":100,"bOffBottom":0}
 ,
 "text259037":{"x":14,"y":202,"w":84,"h":66,"txtscale":100,"bOffBottom":0}
 ,
@@ -107,7 +107,7 @@ try{if(window.dragMgr)window.dragMgr.clearDropZones();}catch(e){if(e&&e.message)
 ,
 "text259018":{"x":92,"y":117,"w":84,"h":33,"txtscale":100,"bOffBottom":0}
 ,
-"text259016":{"x":251,"y":117,"w":84,"h":66,"txtscale":100,"bOffBottom":0}
+"text259016":{"x":251,"y":118,"w":84,"h":66,"txtscale":100,"bOffBottom":0}
 ,
 "text259014":{"x":439,"y":117,"w":84,"h":66,"txtscale":100,"bOffBottom":0}
 ,

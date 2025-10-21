@@ -5,6 +5,10 @@ DesktopResponsive={"1009":{
 ,
 "image314735":{"x":0,"y":0,"w":1440,"h":1024,"bOffBottom":0,"i":"images/jelajahi_karir_bekerja_kuliah.png"}
 ,
+"image332977":{"x":10,"y":373,"w":275,"h":75,"bOffBottom":0,"i":"images/wirausaha.png"}
+,
+"text332974":{"x":81,"y":389,"w":178,"h":38,"txtscale":100,"bOffBottom":0}
+,
 "text290780":{"x":26,"y":202,"w":154,"h":38,"txtscale":100,"bOffBottom":0}
 ,
 "image290778":{"x":126,"y":115,"w":32,"h":32,"bOffBottom":0,"i":"images/estate.png"}
@@ -21,7 +25,7 @@ DesktopResponsive={"1009":{
 ,
 "text290761":{"x":168,"y":117,"w":155,"h":40,"txtscale":100,"bOffBottom":0}
 ,
-"text290759":{"x":461,"y":117,"w":155,"h":38,"txtscale":100,"bOffBottom":0}
+"text290759":{"x":461,"y":118,"w":155,"h":38,"txtscale":100,"bOffBottom":0}
 ,
 "text290757":{"x":806,"y":117,"w":155,"h":28,"txtscale":100,"bOffBottom":0}
 ,
@@ -40,10 +44,6 @@ DesktopResponsive={"1009":{
 "text59200":{"x":928,"y":270,"w":423,"h":486,"txtscale":100,"bOffBottom":0}
 ,
 "image58541":{"x":18,"y":450,"w":253,"h":79,"bOffBottom":0,"i":"images/kerjakuliah_1_.png"}
-,
-"image58508":{"x":8,"y":373,"w":275,"h":75,"bOffBottom":0,"i":"images/wirausaha.png"}
-,
-"text58505":{"x":81,"y":389,"w":140,"h":41,"txtscale":100,"bOffBottom":0}
 ,
 "text58994":{"x":81,"y":459,"w":184,"h":70,"txtscale":100,"bOffBottom":0}
 ,

@@ -7,7 +7,7 @@ TabletResponsive={"1009":{
 ,
 "image326862":{"x":7,"y":261,"w":193,"h":53,"bOffBottom":0,"i":"images/wirausaha.png"}
 ,
-"text326859":{"x":57,"y":272,"w":125,"h":33,"txtscale":100,"bOffBottom":0}
+"text326859":{"x":57,"y":273,"w":125,"h":33,"txtscale":100,"bOffBottom":0}
 ,
 "image326857":{"x":4,"y":310,"w":198,"h":71,"bOffBottom":0,"i":"images/kerjakuliah.png"}
 ,
@@ -29,7 +29,7 @@ TabletResponsive={"1009":{
 ,
 "text326834":{"x":118,"y":82,"w":109,"h":33,"txtscale":100,"bOffBottom":0}
 ,
-"text326832":{"x":323,"y":82,"w":109,"h":66,"txtscale":100,"bOffBottom":0}
+"text326832":{"x":323,"y":83,"w":109,"h":66,"txtscale":100,"bOffBottom":0}
 ,
 "text326830":{"x":565,"y":82,"w":109,"h":66,"txtscale":100,"bOffBottom":0}
 ,
@@ -69,7 +69,7 @@ try{if(window.dragMgr)window.dragMgr.clearDropZones();}catch(e){if(e&&e.message)
 ,
 "image326862":{"x":5,"y":373,"w":150,"h":41,"bOffBottom":0,"i":"images/wirausaha.png"}
 ,
-"text326859":{"x":44,"y":388,"w":97,"h":33,"txtscale":100,"bOffBottom":0}
+"text326859":{"x":44,"y":389,"w":97,"h":33,"txtscale":100,"bOffBottom":0}
 ,
 "image326857":{"x":3,"y":442,"w":154,"h":55,"bOffBottom":0,"i":"images/kerjakuliah.png"}
 ,
@@ -91,7 +91,7 @@ try{if(window.dragMgr)window.dragMgr.clearDropZones();}catch(e){if(e&&e.message)
 ,
 "text326834":{"x":92,"y":117,"w":84,"h":33,"txtscale":100,"bOffBottom":0}
 ,
-"text326832":{"x":251,"y":117,"w":84,"h":66,"txtscale":100,"bOffBottom":0}
+"text326832":{"x":251,"y":118,"w":84,"h":66,"txtscale":100,"bOffBottom":0}
 ,
 "text326830":{"x":439,"y":117,"w":84,"h":66,"txtscale":100,"bOffBottom":0}
 ,

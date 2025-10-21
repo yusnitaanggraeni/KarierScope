@@ -81,7 +81,7 @@ try{if(window.dragMgr)window.dragMgr.clearDropZones();}catch(e){if(e&&e.message)
 ,
 "image272001":{"x":3,"y":373,"w":92,"h":25,"bOffBottom":0,"i":"images/wirausaha.png"}
 ,
-"text271998":{"x":27,"y":388,"w":59,"h":33,"txtscale":100,"bOffBottom":0}
+"text271998":{"x":27,"y":389,"w":59,"h":33,"txtscale":100,"bOffBottom":0}
 ,
 "image271996":{"x":2,"y":442,"w":94,"h":34,"bOffBottom":0,"i":"images/kerjakuliah.png"}
 ,
@@ -103,7 +103,7 @@ try{if(window.dragMgr)window.dragMgr.clearDropZones();}catch(e){if(e&&e.message)
 ,
 "text271973":{"x":56,"y":117,"w":52,"h":33,"txtscale":100,"bOffBottom":0}
 ,
-"text271971":{"x":154,"y":117,"w":52,"h":66,"txtscale":100,"bOffBottom":0}
+"text271971":{"x":154,"y":118,"w":52,"h":66,"txtscale":100,"bOffBottom":0}
 ,
 "text271969":{"x":269,"y":117,"w":52,"h":66,"txtscale":100,"bOffBottom":0}
 ,

@@ -7,7 +7,7 @@ DesktopResponsive={"1009":{
 ,
 "image326862":{"x":10,"y":373,"w":275,"h":75,"bOffBottom":0,"i":"images/wirausaha.png"}
 ,
-"text326859":{"x":81,"y":388,"w":178,"h":38,"txtscale":100,"bOffBottom":0}
+"text326859":{"x":81,"y":389,"w":178,"h":38,"txtscale":100,"bOffBottom":0}
 ,
 "image326857":{"x":6,"y":442,"w":282,"h":101,"bOffBottom":0,"i":"images/kerjakuliah.png"}
 ,
@@ -29,7 +29,7 @@ DesktopResponsive={"1009":{
 ,
 "text326834":{"x":168,"y":117,"w":155,"h":40,"txtscale":100,"bOffBottom":0}
 ,
-"text326832":{"x":461,"y":117,"w":155,"h":38,"txtscale":100,"bOffBottom":0}
+"text326832":{"x":461,"y":118,"w":155,"h":38,"txtscale":100,"bOffBottom":0}
 ,
 "text326830":{"x":806,"y":117,"w":155,"h":28,"txtscale":100,"bOffBottom":0}
 ,

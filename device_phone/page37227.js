@@ -5,9 +5,9 @@ PhoneResponsive={"785":{
 ,
 "image314557":{"x":0,"y":0,"w":785,"h":558,"bOffBottom":0,"i":"images/jelajahi_karir_wirausaha.png"}
 ,
-"image290003":{"x":3,"y":240,"w":154,"h":55,"bOffBottom":0,"i":"images/kerjakuliah.png"}
+"image332943":{"x":3,"y":241,"w":154,"h":55,"bOffBottom":0,"i":"images/kerjakuliah.png"}
 ,
-"text290000":{"x":45,"y":250,"w":84,"h":99,"txtscale":100,"bOffBottom":0}
+"text332940":{"x":45,"y":251,"w":84,"h":99,"txtscale":100,"bOffBottom":0}
 ,
 "text289999":{"x":14,"y":110,"w":84,"h":66,"txtscale":100,"bOffBottom":0}
 ,
@@ -61,9 +61,9 @@ try{if(window.dragMgr)window.dragMgr.clearDropZones();}catch(e){if(e&&e.message)
 ,
 "image314557":{"x":0,"y":0,"w":480,"h":341,"bOffBottom":0,"i":"images/jelajahi_karir_wirausaha.png"}
 ,
-"image290003":{"x":2,"y":440,"w":94,"h":34,"bOffBottom":0,"i":"images/kerjakuliah.png"}
+"image332943":{"x":2,"y":442,"w":94,"h":34,"bOffBottom":0,"i":"images/kerjakuliah.png"}
 ,
-"text290000":{"x":27,"y":458,"w":51,"h":99,"txtscale":100,"bOffBottom":0}
+"text332940":{"x":28,"y":461,"w":51,"h":99,"txtscale":100,"bOffBottom":0}
 ,
 "text289999":{"x":9,"y":202,"w":51,"h":66,"txtscale":100,"bOffBottom":0}
 ,
@@ -81,7 +81,7 @@ try{if(window.dragMgr)window.dragMgr.clearDropZones();}catch(e){if(e&&e.message)
 ,
 "text289980":{"x":56,"y":117,"w":52,"h":33,"txtscale":100,"bOffBottom":0}
 ,
-"text289978":{"x":154,"y":117,"w":52,"h":66,"txtscale":100,"bOffBottom":0}
+"text289978":{"x":154,"y":118,"w":52,"h":66,"txtscale":100,"bOffBottom":0}
 ,
 "text289976":{"x":269,"y":117,"w":52,"h":66,"txtscale":100,"bOffBottom":0}
 ,
@@ -101,7 +101,7 @@ try{if(window.dragMgr)window.dragMgr.clearDropZones();}catch(e){if(e&&e.message)
 ,
 "image204782":{"x":6,"y":382,"w":84,"h":17,"bOffBottom":0,"i":"images/wirausaha_2_.png"}
 ,
-"text204556":{"x":27,"y":388,"w":39,"h":33,"txtscale":100,"bOffBottom":0}
+"text204556":{"x":27,"y":389,"w":39,"h":33,"txtscale":100,"bOffBottom":0}
 ,
 "RCDResetQuestion":function(){
 try{if(window.dragMgr)window.dragMgr.clearDropZones();}catch(e){if(e&&e.message)console.log(e.message);}

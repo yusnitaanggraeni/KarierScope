@@ -89,7 +89,7 @@ try{if(window.dragMgr)window.dragMgr.clearDropZones();}catch(e){if(e&&e.message)
 ,
 "image259394":{"x":2,"y":442,"w":94,"h":34,"bOffBottom":0,"i":"images/kerjakuliah.png"}
 ,
-"text259391":{"x":28,"y":461,"w":51,"h":99,"txtscale":100,"bOffBottom":0}
+"text259391":{"x":28,"y":460,"w":51,"h":99,"txtscale":100,"bOffBottom":0}
 ,
 "text259037":{"x":9,"y":202,"w":51,"h":66,"txtscale":100,"bOffBottom":0}
 ,
@@ -107,7 +107,7 @@ try{if(window.dragMgr)window.dragMgr.clearDropZones();}catch(e){if(e&&e.message)
 ,
 "text259018":{"x":56,"y":117,"w":52,"h":33,"txtscale":100,"bOffBottom":0}
 ,
-"text259016":{"x":154,"y":117,"w":52,"h":66,"txtscale":100,"bOffBottom":0}
+"text259016":{"x":154,"y":118,"w":52,"h":66,"txtscale":100,"bOffBottom":0}
 ,
 "text259014":{"x":269,"y":117,"w":52,"h":66,"txtscale":100,"bOffBottom":0}
 ,
