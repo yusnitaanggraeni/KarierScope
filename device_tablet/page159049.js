@@ -3,7 +3,7 @@ TabletResponsive={"1009":{
 ,
 "image238349":{"x":0,"y":0,"w":1009,"h":718,"bOffBottom":0,"i":"images/jelajahi_karir.png"}
 ,
-"text322903":{"x":123,"y":170,"w":383,"h":37,"txtscale":100,"bOffBottom":0}
+"text322903":{"x":118,"y":170,"w":383,"h":37,"txtscale":100,"bOffBottom":0}
 ,
 "image238596":{"x":88,"y":81,"w":22,"h":22,"bOffBottom":0,"i":"images/estate.png"}
 ,
@@ -43,9 +43,7 @@ TabletResponsive={"1009":{
 ,
 "image190660":{"x":291,"y":84,"w":20,"h":20,"bOffBottom":0,"i":"images/group_5_.png"}
 ,
-"text160575":{"x":74,"y":198,"w":457,"h":74,"txtscale":100,"bOffBottom":0}
-,
-"text324296":{"x":81,"y":171,"w":42,"h":37,"txtscale":100,"bOffBottom":0}
+"text160575":{"x":74,"y":171,"w":457,"h":111,"txtscale":100,"bOffBottom":0}
 ,
 "RCDResetQuestion":function(){
 try{if(window.dragMgr)window.dragMgr.clearDropZones();}catch(e){if(e&&e.message)console.log(e.message);}
@@ -59,7 +57,7 @@ try{if(window.dragMgr)window.dragMgr.clearDropZones();}catch(e){if(e&&e.message)
 ,
 "image238349":{"x":0,"y":0,"w":785,"h":558,"bOffBottom":0,"i":"images/jelajahi_karir.png"}
 ,
-"text322903":{"x":96,"y":243,"w":298,"h":37,"txtscale":100,"bOffBottom":0}
+"text322903":{"x":92,"y":243,"w":298,"h":37,"txtscale":100,"bOffBottom":0}
 ,
 "image238596":{"x":69,"y":115,"w":17,"h":17,"bOffBottom":0,"i":"images/estate.png"}
 ,
@@ -99,9 +97,7 @@ try{if(window.dragMgr)window.dragMgr.clearDropZones();}catch(e){if(e&&e.message)
 ,
 "image190660":{"x":227,"y":120,"w":16,"h":16,"bOffBottom":0,"i":"images/group_5_.png"}
 ,
-"text160575":{"x":57,"y":283,"w":355,"h":74,"txtscale":100,"bOffBottom":0}
-,
-"text324296":{"x":63,"y":244,"w":33,"h":37,"txtscale":100,"bOffBottom":0}
+"text160575":{"x":57,"y":244,"w":355,"h":111,"txtscale":100,"bOffBottom":0}
 ,
 "RCDResetQuestion":function(){
 try{if(window.dragMgr)window.dragMgr.clearDropZones();}catch(e){if(e&&e.message)console.log(e.message);}

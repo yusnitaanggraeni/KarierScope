@@ -3,7 +3,7 @@ DesktopResponsive={"1009":{
 ,
 "image238349":{"x":0,"y":0,"w":1440,"h":1024,"bOffBottom":0,"i":"images/jelajahi_karir.png"}
 ,
-"text322903":{"x":176,"y":243,"w":546,"h":42,"txtscale":100,"bOffBottom":0}
+"text322903":{"x":168,"y":243,"w":546,"h":42,"txtscale":100,"bOffBottom":0}
 ,
 "image238596":{"x":126,"y":115,"w":32,"h":32,"bOffBottom":0,"i":"images/estate.png"}
 ,
@@ -43,9 +43,7 @@ DesktopResponsive={"1009":{
 ,
 "image190660":{"x":416,"y":120,"w":29,"h":29,"bOffBottom":0,"i":"images/group_5_.png"}
 ,
-"text160575":{"x":105,"y":283,"w":652,"h":47,"txtscale":100,"bOffBottom":0}
-,
-"text324296":{"x":116,"y":244,"w":60,"h":47,"txtscale":100,"bOffBottom":0}
+"text160575":{"x":105,"y":244,"w":652,"h":75,"txtscale":100,"bOffBottom":0}
 ,
 "RCDResetQuestion":function(){
 try{if(window.dragMgr)window.dragMgr.clearDropZones();}catch(e){if(e&&e.message)console.log(e.message);}
