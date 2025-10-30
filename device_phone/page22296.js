@@ -1,5 +1,5 @@
 PhoneResponsive={"785":{
-"pageLayer":{"w":785,"h":840,"bgColor":"#ffffff"}
+"pageLayer":{"w":785,"h":807,"bgColor":"#ffffff"}
 ,
 "image324879":{"x":0,"y":0,"w":785,"h":558,"bOffBottom":0,"i":"images/beranda_1_.png"}
 ,
@@ -27,7 +27,7 @@ PhoneResponsive={"785":{
 ,
 "text22314":{"x":652,"y":63,"w":84,"h":33,"txtscale":100,"bOffBottom":0}
 ,
-"text22301":{"x":79,"y":345,"w":631,"h":495,"txtscale":100,"bOffBottom":0}
+"text22301":{"x":79,"y":345,"w":631,"h":462,"txtscale":100,"bOffBottom":0}
 ,
 "RCDResetQuestion":function(){
 try{if(window.dragMgr)window.dragMgr.clearDropZones();}catch(e){if(e&&e.message)console.log(e.message);}
@@ -37,7 +37,7 @@ try{if(window.dragMgr)window.dragMgr.clearDropZones();}catch(e){if(e&&e.message)
 ,"preload":[]
 },
 "480":{
-"pageLayer":{"w":480,"h":1292,"bgColor":"#ffffff"}
+"pageLayer":{"w":480,"h":1325,"bgColor":"#ffffff"}
 ,
 "image324879":{"x":0,"y":0,"w":480,"h":341,"bOffBottom":0,"i":"images/beranda_1_.png"}
 ,
@@ -65,7 +65,7 @@ try{if(window.dragMgr)window.dragMgr.clearDropZones();}catch(e){if(e&&e.message)
 ,
 "text22314":{"x":399,"y":115,"w":52,"h":33,"txtscale":100,"bOffBottom":0}
 ,
-"text22301":{"x":48,"y":632,"w":386,"h":660,"txtscale":100,"bOffBottom":0}
+"text22301":{"x":48,"y":632,"w":386,"h":693,"txtscale":100,"bOffBottom":0}
 ,
 "RCDResetQuestion":function(){
 try{if(window.dragMgr)window.dragMgr.clearDropZones();}catch(e){if(e&&e.message)console.log(e.message);}

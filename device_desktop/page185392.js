@@ -3,6 +3,8 @@ DesktopResponsive={"1009":{
 ,
 "image352113":{"x":0,"y":0,"w":1440,"h":1024,"bOffBottom":0,"i":"images/petunjuk_2_awal_2.png"}
 ,
+"audio356783":{"x":1230,"y":15,"w":57,"h":57,"bOffBottom":0}
+,
 "image355748":{"x":1154,"y":115,"w":34,"h":35,"bOffBottom":0,"i":"images/1000595951-removebg-preview.png"}
 ,
 "text355745":{"x":1196,"y":115,"w":169,"h":42,"txtscale":100,"bOffBottom":0}
@@ -68,5 +70,5 @@ try{if(window.dragMgr)window.dragMgr.clearDropZones();}catch(e){if(e&&e.message)
 }
 ,
 "RCDResultResize":function(){}
-,"preload":['images/nextbtn.png','images/group_2_.png','images/f7_person-2-fill.png','images/estate.png','images/1000595951-removebg-preview.png','images/group_87.png','images/group_86.png','images/petunjuk_2_awal_2.png']
+,"preload":['images/nextbtn.png','images/group_2_.png','images/f7_person-2-fill.png','images/estate.png','images/1000595951-removebg-preview.png','images/group_87.png','images/group_86.png','images/group_97.png','images/petunjuk_2_awal_2.png']
 }}

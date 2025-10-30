@@ -3,6 +3,8 @@ TabletResponsive={"1009":{
 ,
 "image352668":{"x":0,"y":0,"w":1009,"h":718,"bOffBottom":0,"i":"images/petunjuk_1_awal_2.png"}
 ,
+"audio356442":{"x":862,"y":11,"w":39,"h":39,"bOffBottom":0}
+,
 "image355680":{"x":809,"y":81,"w":24,"h":25,"bOffBottom":0,"i":"images/1000595951-removebg-preview.png"}
 ,
 "text355677":{"x":838,"y":81,"w":118,"h":33,"txtscale":100,"bOffBottom":0}
@@ -46,6 +48,8 @@ try{if(window.dragMgr)window.dragMgr.clearDropZones();}catch(e){if(e&&e.message)
 "pageLayer":{"w":785,"h":1003,"bgColor":"#ffffff"}
 ,
 "image352668":{"x":0,"y":0,"w":785,"h":558,"bOffBottom":0,"i":"images/petunjuk_1_awal_2.png"}
+,
+"audio356442":{"x":671,"y":15,"w":31,"h":31,"bOffBottom":0}
 ,
 "image355680":{"x":629,"y":115,"w":19,"h":19,"bOffBottom":0,"i":"images/1000595951-removebg-preview.png"}
 ,
