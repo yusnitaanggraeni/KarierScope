@@ -1,7 +1,7 @@
 DesktopResponsive={"1009":{
 "pageLayer":{"w":1440,"h":1024,"bgColor":"#ffffff"}
 ,
-"image246776":{"x":0,"y":0,"w":1440,"h":1024,"bOffBottom":0,"i":"images/tahap_melamar_kerja.png"}
+"image336078":{"x":0,"y":0,"w":1440,"h":1024,"bOffBottom":0,"i":"images/tahap_melamar_kerja_1_.png"}
 ,
 "audio315080":{"x":1230,"y":15,"w":57,"h":57,"bOffBottom":0}
 ,
@@ -62,5 +62,5 @@ try{if(window.dragMgr)window.dragMgr.clearDropZones();}catch(e){if(e&&e.message)
 }
 ,
 "RCDResultResize":function(){}
-,"preload":['images/angle-right-b.png','images/9_diagaram_3.png','images/group_87.png','images/group_86.png','images/group_97.png','images/tahap_melamar_kerja.png']
+,"preload":['images/angle-right-b.png','images/9_diagaram_3.png','images/group_87.png','images/group_86.png','images/group_97.png','images/tahap_melamar_kerja_1_.png']
 }}

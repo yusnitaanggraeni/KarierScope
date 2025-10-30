@@ -1,7 +1,7 @@
 PhoneResponsive={"785":{
 "pageLayer":{"w":785,"h":592,"bgColor":"#ffffff"}
 ,
-"image246776":{"x":0,"y":0,"w":785,"h":558,"bOffBottom":0,"i":"images/tahap_melamar_kerja.png"}
+"image336078":{"x":0,"y":0,"w":785,"h":558,"bOffBottom":0,"i":"images/tahap_melamar_kerja_1_.png"}
 ,
 "audio315080":{"x":671,"y":8,"w":31,"h":31,"bOffBottom":0}
 ,
@@ -67,7 +67,7 @@ try{if(window.dragMgr)window.dragMgr.clearDropZones();}catch(e){if(e&&e.message)
 "480":{
 "pageLayer":{"w":480,"h":1052,"bgColor":"#ffffff"}
 ,
-"image246776":{"x":0,"y":0,"w":480,"h":341,"bOffBottom":0,"i":"images/tahap_melamar_kerja.png"}
+"image336078":{"x":0,"y":0,"w":480,"h":341,"bOffBottom":0,"i":"images/tahap_melamar_kerja_1_.png"}
 ,
 "audio315080":{"x":410,"y":15,"w":19,"h":19,"bOffBottom":0}
 ,

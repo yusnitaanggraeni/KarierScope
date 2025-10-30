@@ -56,5 +56,5 @@ try{if(window.dragMgr)window.dragMgr.clearDropZones();}catch(e){if(e&&e.message)
 }
 ,
 "RCDResultResize":function(){}
-,"preload":['images/angle-right-b.png','images/snbp.png','images/snbt.png','images/group_87.png','images/group_86.png','images/group_97.png','images/akuntansi.png','images/text309439CircleBulletFont8.png','images/text309439CircleBulletFont9.png']
+,"preload":['images/angle-right-b.png','images/snbp.png','images/snbt.png','images/group_87.png','images/group_86.png','images/group_97.png','images/akuntansi.png','images/text309439CircleBulletFont8.png','images/text309439CircleBulletFont10.png']
 }}
