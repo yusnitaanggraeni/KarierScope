@@ -190,10 +190,10 @@ function init11() {
   findWH()
   if( is.min ){
     trivPageTracking.InitPageTracking();
-    PreloadResources(new Array(image353473,audio356243,text356095,text354224,text206658,image12423,text12329,text12506,text14540,text18016,text18174,text18344,text18499,text18663,text15357,text15356,text15355,text16378,text16377,text16376,text15354,text12547,text13579))
+    PreloadResources(new Array(image353473,audio356405,text356095,text354224,text206658,image12423,text12329,text12506,text14540,text18016,text18174,text18344,text18499,text18663,text15357,text15356,text15355,text16378,text16377,text16376,text15354,text12547,text13579))
     pageLayer.show(true);
     image353473.init()
-    audio356243.init()
+    audio356405.init()
     text356095.init()
     text354224.init()
     text206658.init()
@@ -216,7 +216,7 @@ function init11() {
     text12547.init()
     text13579.init()
     image353473.activate()
-    audio356243.activate()
+    audio356405.activate()
     text356095.activate()
     text354224.activate()
     text206658.activate()
@@ -398,10 +398,10 @@ image353473.addBorder(0)
 image353473.addOpacity(100)
 image353473.build()
 
-audio356243 = new ObjMedia('audio356243','PETUNJU',570,500,1,1,0,2,'media/petunju.mp3',0,1,0,0,1,0.800000,0,'div',0, 0 );
-audio356243.bNeedPool = true;
-audio356243.BuildMediaString()
-audio356243.build()
+audio356405 = new ObjMedia('audio356405','petinju',570,500,1,1,0,2,'media/petinju.mp3',0,1,0,0,1,0.800000,0,'div',0, 0 );
+audio356405.bNeedPool = true;
+audio356405.BuildMediaString()
+audio356405.build()
 
 text356095 = new ObjText('text356095',null,1289,32,103,29,1,3,null,'div',null,0 )
 text356095.initSLine(0)
@@ -763,7 +763,7 @@ text13579.addInnerText('<div id=\"text13579\" aria-hidden=\"true\" ><a id=\"text
 text13579.build()
 
 arObjs.push(image353473);
-arObjs.push(audio356243);
+arObjs.push(audio356405);
 arObjs.push(text356095);
 arObjs.push(text354224);
 arObjs.push(text206658);
@@ -811,7 +811,7 @@ if( is.min ){
 <script>
 if( is.min ){
     appendElement(image353473, null, null);
-    appendElement(audio356243, null, null);
+    appendElement(audio356405, null, null);
     appendElement(text356095, null, null);
     appendElement(text354224, null, null);
     appendElement(text206658, null, null);

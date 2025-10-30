@@ -3,7 +3,7 @@ PhoneResponsive={"785":{
 ,
 "image356119":{"x":0,"y":0,"w":785,"h":558,"bOffBottom":0,"i":"images/jelajahi_karir.png"}
 ,
-"text322903":{"x":90,"y":133,"w":298,"h":37,"txtscale":100,"bOffBottom":0}
+"text322903":{"x":90,"y":132,"w":298,"h":37,"txtscale":100,"bOffBottom":0}
 ,
 "image238596":{"x":69,"y":63,"w":17,"h":17,"bOffBottom":0,"i":"images/estate.png"}
 ,
@@ -57,7 +57,7 @@ try{if(window.dragMgr)window.dragMgr.clearDropZones();}catch(e){if(e&&e.message)
 ,
 "image356119":{"x":0,"y":0,"w":480,"h":341,"bOffBottom":0,"i":"images/jelajahi_karir.png"}
 ,
-"text322903":{"x":55,"y":244,"w":182,"h":37,"txtscale":100,"bOffBottom":0}
+"text322903":{"x":55,"y":243,"w":182,"h":37,"txtscale":100,"bOffBottom":0}
 ,
 "image238596":{"x":42,"y":116,"w":11,"h":11,"bOffBottom":0,"i":"images/estate.png"}
 ,

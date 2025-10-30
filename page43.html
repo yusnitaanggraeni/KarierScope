@@ -190,10 +190,10 @@ function init11() {
   findWH()
   if( is.min ){
     trivPageTracking.InitPageTracking();
-    PreloadResources(new Array(image353316,audio356213,text355995,image3084,text10549,text3131,text10639,text11356,text10735))
+    PreloadResources(new Array(image353316,audio356385,text355995,image3084,text10549,text3131,text10639,text11356,text10735))
     pageLayer.show(true);
     image353316.init()
-    audio356213.init()
+    audio356385.init()
     text355995.init()
     image3084.init()
     text10549.init()
@@ -202,7 +202,7 @@ function init11() {
     text11356.init()
     text10735.init()
     image353316.activate()
-    audio356213.activate()
+    audio356385.activate()
     text355995.activate()
     image3084.activate()
     text10549.activate()
@@ -370,10 +370,10 @@ image353316.addBorder(0)
 image353316.addOpacity(100)
 image353316.build()
 
-audio356213 = new ObjMedia('audio356213','PETUNJU',570,500,1,1,0,2,'media/petunju.mp3',0,1,0,0,1,0.800000,0,'div',0, 0 );
-audio356213.bNeedPool = true;
-audio356213.BuildMediaString()
-audio356213.build()
+audio356385 = new ObjMedia('audio356385','petinju',570,500,1,1,0,2,'media/petinju.mp3',0,1,0,0,1,0.800000,0,'div',0, 0 );
+audio356385.bNeedPool = true;
+audio356385.BuildMediaString()
+audio356385.build()
 
 text355995 = new ObjText('text355995',null,1289,32,103,29,1,3,null,'div',null,0 )
 text355995.initSLine(0)
@@ -494,7 +494,7 @@ text10735.addInnerText('<div id=\"text10735\" aria-hidden=\"true\" ><a id=\"text
 text10735.build()
 
 arObjs.push(image353316);
-arObjs.push(audio356213);
+arObjs.push(audio356385);
 arObjs.push(text355995);
 arObjs.push(image3084);
 arObjs.push(text10549);
@@ -528,7 +528,7 @@ if( is.min ){
 <script>
 if( is.min ){
     appendElement(image353316, null, null);
-    appendElement(audio356213, null, null);
+    appendElement(audio356385, null, null);
     appendElement(text355995, null, null);
     appendElement(image3084, null, null);
     appendElement(text10549, null, null);

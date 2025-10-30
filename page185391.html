@@ -202,10 +202,10 @@ function init11() {
   findWH()
   if( is.min ){
     trivPageTracking.InitPageTracking();
-    PreloadResources(new Array(image352668,audio356288,image355680,text355677,image355675,text355672,image355670,text355667,image355665,text355662,text285440,text285439,text285438,image285409,text285406,image285365,image285362,text285345))
+    PreloadResources(new Array(image352668,audio356442,image355680,text355677,image355675,text355672,image355670,text355667,image355665,text355662,text285440,text285439,text285438,image285409,text285406,image285365,image285362,text285345))
     pageLayer.show(true);
     image352668.init()
-    audio356288.init()
+    audio356442.init()
     image355680.init()
     text355677.init()
     image355675.init()
@@ -223,7 +223,7 @@ function init11() {
     image285362.init()
     text285345.init()
     image352668.activate()
-    audio356288.activate()
+    audio356442.activate()
     image355680.activate()
     text355677.activate()
     image355675.activate()
@@ -502,10 +502,10 @@ image352668.addBorder(0)
 image352668.addOpacity(100)
 image352668.build()
 
-audio356288 = new ObjMedia('audio356288','PETUNJU',570,500,1,1,0,2,'media/petunju.mp3',0,1,0,0,1,0.800000,0,'div',0, 0 );
-audio356288.bNeedPool = true;
-audio356288.BuildMediaString()
-audio356288.build()
+audio356442 = new ObjMedia('audio356442','petinju',570,500,1,1,0,2,'media/petinju.mp3',0,1,0,0,1,0.800000,0,'div',0, 0 );
+audio356442.bNeedPool = true;
+audio356442.BuildMediaString()
+audio356442.build()
 
 image355680 = new ObjImage('image355680','images/1000595951-removebg-preview.png','1000595951-removebg-preview',1154,115,34,35,1,3,'div',null, 0 )
 image355680.initRotateAngle(0,0,0,0,0,0,0)
@@ -764,7 +764,7 @@ text285345.addInnerText('<div id=\"text285345\" aria-hidden=\"true\" ><a id=\"te
 text285345.build()
 
 arObjs.push(image352668);
-arObjs.push(audio356288);
+arObjs.push(audio356442);
 arObjs.push(image355680);
 arObjs.push(text355677);
 arObjs.push(image355675);
@@ -807,7 +807,7 @@ if( is.min ){
 <script>
 if( is.min ){
     appendElement(image352668, null, null);
-    appendElement(audio356288, null, null);
+    appendElement(audio356442, null, null);
     appendElement(image355680, null, null);
     appendElement(text355677, null, null);
     appendElement(image355675, null, null);

@@ -3,7 +3,7 @@ TabletResponsive={"1009":{
 ,
 "image356119":{"x":0,"y":0,"w":1009,"h":718,"bOffBottom":0,"i":"images/jelajahi_karir.png"}
 ,
-"text322903":{"x":116,"y":171,"w":383,"h":37,"txtscale":100,"bOffBottom":0}
+"text322903":{"x":116,"y":170,"w":383,"h":37,"txtscale":100,"bOffBottom":0}
 ,
 "image238596":{"x":88,"y":81,"w":22,"h":22,"bOffBottom":0,"i":"images/estate.png"}
 ,
@@ -57,7 +57,7 @@ try{if(window.dragMgr)window.dragMgr.clearDropZones();}catch(e){if(e&&e.message)
 ,
 "image356119":{"x":0,"y":0,"w":785,"h":558,"bOffBottom":0,"i":"images/jelajahi_karir.png"}
 ,
-"text322903":{"x":90,"y":244,"w":298,"h":37,"txtscale":100,"bOffBottom":0}
+"text322903":{"x":90,"y":243,"w":298,"h":37,"txtscale":100,"bOffBottom":0}
 ,
 "image238596":{"x":69,"y":116,"w":17,"h":17,"bOffBottom":0,"i":"images/estate.png"}
 ,

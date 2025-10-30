@@ -3,7 +3,7 @@ DesktopResponsive={"1009":{
 ,
 "image356119":{"x":0,"y":0,"w":1440,"h":1024,"bOffBottom":0,"i":"images/jelajahi_karir.png"}
 ,
-"text322903":{"x":166,"y":244,"w":546,"h":42,"txtscale":100,"bOffBottom":0}
+"text322903":{"x":166,"y":243,"w":546,"h":42,"txtscale":100,"bOffBottom":0}
 ,
 "image238596":{"x":126,"y":116,"w":32,"h":32,"bOffBottom":0,"i":"images/estate.png"}
 ,
